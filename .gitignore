@@ -1,0 +1,16 @@
+*
+# Track this:
+!.gitignore
+!LICENSE
+!Makefile
+!README
+!config.mk
+
+!config.def.h
+!drw.c
+!drw.h
+!dwm.1
+!dwm.c
+!transient.c
+!util.c
+!util.h
